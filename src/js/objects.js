@@ -133,7 +133,7 @@ function createPipes() {
         bottomPipe: { spriteX: 0, spriteY: 169 },
     
         spaceBetween: 80,
-        pointsPerPipe: 100,
+        pointsPerPipe: 1,
         pipes: [],
     
         update() {
